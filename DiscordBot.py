@@ -1,5 +1,3 @@
-# Close and lock tickets in a forum. Commands: /resolve - closes and locks the ticket ; /resolve_name "YourName" - when using /resolve, it changes the tickets name to "[DONE "The name you choose when using /resolve_name"] + tickets original name
-
 import discord
 from discord.ext import commands
 intents=discord.Intents.default()
