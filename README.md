@@ -1,6 +1,6 @@
 # Discord Bot
 
-This is a simple Discord bot made with [discord.py](https://github.com/Rapptz/discord.py).  
+This is a Discord bot made with [discord.py](https://github.com/Rapptz/discord.py).  
 The bot is used to manage **forum tickets (threads)** and help moderators close them.
 
 ## Features
@@ -10,9 +10,13 @@ The bot is used to manage **forum tickets (threads)** and help moderators close 
 
 ## Permissions
 The bot needs these permissions to work:
-- Manage Threads  
-- Send Messages  
-- View Channels  
+- Manage Threads
+- Manage Messages
+- Send Messages
+- Send Messages In Threads 
+- View Channels
+- Manage Channels
+- Manage Roles
 - Read Message History  
 
 Also, the bot role should be **higher than the roles of users** in the server.
